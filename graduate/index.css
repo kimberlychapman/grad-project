@@ -1,0 +1,33 @@
+#container {
+	margin: 0px auto;
+	width: 500px;
+	height: 375px;
+	border: 10px #333 solid;
+}
+#videoElement {
+	width: 500px;
+	height: 375px;
+	background-color: #666;
+}
+#background{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:100%;
+}
+
+.treasure-map1 {
+	width: 150px;
+	margin-left: 30%;
+	margin-top: -10%;
+}
+.comic {
+	width: 150px;
+	margin-left: 66%;
+	margin-top: 20%;
+}
+
+.spell {
+	width: 150px;
+	margin-left: 15%;
+	margin-top: -5%;
+}
